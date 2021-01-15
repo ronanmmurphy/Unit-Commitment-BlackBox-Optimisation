@@ -1,0 +1,11 @@
+type,capacity,cost
+hydro,100,1.4
+hydro,80,1.4
+hydro,60,1.4
+hydro,10,1.4
+solid,900,4.4
+solid,600,4.4
+solid,100,4.4
+gas,400,9.1
+solar,70,6.6
+solar,20,6.6
